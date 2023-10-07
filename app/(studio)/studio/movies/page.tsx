@@ -1,4 +1,4 @@
-import Sidebar from '../components/Sidebar'
+import Sidebar from '../components/StudioSidebar';
 
 const MoviesPage = () => {
   return (
@@ -33,7 +33,7 @@ const MoviesPage = () => {
         </div>
       </main>
     </>
-  )
-}
+  );
+};
 
-export default MoviesPage
+export default MoviesPage;
