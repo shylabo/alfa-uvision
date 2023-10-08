@@ -282,10 +282,9 @@ const ProjectForm: FC<Props> = ({ defaultProject }) => {
               {/* Runtime */}
               <div className="w-full">
                 <label className="label">
-                  <span className="label-text">Release date</span>
+                  <span className="label-text">Runtime</span>
                 </label>
                 <input
-                  // label="Run time (min)"
                   type="number"
                   defaultValue={defaultProject?.movie?.runtime || 0}
                   disabled={!isEditable(defaultProject?.status)}

@@ -2,6 +2,7 @@ import { projects } from '@/mock';
 import { notFound } from 'next/navigation';
 import { FC } from 'react';
 import ProjectSidebar from '../components/ProjectSidebar';
+import FundingStatusPageContent from './components/FundingStatusPageContent';
 
 interface FundingStatusPageProps {
   params: { id: string };
@@ -17,7 +18,7 @@ const FundingStatusPage: FC<FundingStatusPageProps> = ({ params: { id } }) => {
         <ProjectSidebar project={project} />
       </div>
       <main className="w-full h-full overflow-y-auto p-4">
-        <div>Funding Status</div>
+        <FundingStatusPageContent project={project} />
       </main>
     </>
   );

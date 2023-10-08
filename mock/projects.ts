@@ -1,4 +1,4 @@
-import { Project } from '@/types'
+import { Project } from '@/types';
 
 export const projects: Project[] = [
   {
@@ -423,8 +423,8 @@ export const projects: Project[] = [
     description: 'This is a sample project description.',
     eyeCatchUrl: 'https://images.unsplash.com/photo-1611419010196-a360856fc42f',
     pitchUrl: 'https://example.com/pitch.mp4',
-    fundingGoal: 10000, // $10,000 USDC
-    totalRaised: 4000,
+    fundingGoal: 4000,
+    totalRaised: 1600,
     runningDays: 90,
     status: 'running',
     willLaunchAt: new Date('2023-09-01'),
@@ -625,4 +625,4 @@ export const projects: Project[] = [
       },
     ],
   },
-]
+];

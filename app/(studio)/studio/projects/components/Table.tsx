@@ -3,7 +3,7 @@ import { projects } from '@/mock';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/navigation';
-import { PiFilmSlateBold, PiMagnifyingGlassBold, PiPlusBold } from 'react-icons/pi';
+import { PiFilmSlateBold, PiPlusBold } from 'react-icons/pi';
 import { FC } from 'react';
 import { ProjectStatus } from '@/types';
 
@@ -89,7 +89,7 @@ const Table: FC = () => {
       </div>
 
       <div className="overflow-auto px-0 py-4">
-        <table className="w-full min-w-max table-auto text-left">
+        <table className="table w-full min-w-max table-auto text-left">
           {/* Table Header */}
           <thead>
             <tr>

@@ -4,7 +4,8 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { usePathname } from 'next/navigation';
 import { PiArrowLeft, PiChartBar, PiEye, PiPencilSimple } from 'react-icons/pi';
-import { Project } from '@/types';
+import { Project, ProjectStatus } from '@/types';
+import { PROJECT_STATUS } from '@/constants';
 
 interface Props {
   project: Project;
@@ -56,6 +57,9 @@ const Sidebar: React.FC<Props> = ({ project }) => {
       <ul className="w-full">
         {ListItems.map(({ value, label, icon: Icon, path }) => {
           const isCurrentMenu = path === pathname;
+          if (value === 'funding-status' && project.status !== 'running' && project.status !== 'finished') {
+            return null;
+          }
           return (
             <li key={value} className="relative flex w-full h-14">
               <div className={`absolute left-0 w-1 h-full bg-uv-300 ${isCurrentMenu ? 'block' : 'hidden'} `} />
