@@ -3,12 +3,12 @@ import Link from 'next/link';
 
 const StudioHeader = () => {
   return (
-    <header className="navbar bg-uv-400 px-4">
+    <header className="navbar bg-uv-300 px-4">
       {/* Logo */}
       <div className="flex-1">
-        <div className="w-24 h-full">
+        <Link className="w-24 h-full" href={'/studio/projects'}>
           <img src="/uvision/logo-text.png" alt="uvision logo" />
-        </div>
+        </Link>
       </div>
 
       {/* Icon dropdown */}
@@ -23,16 +23,7 @@ const StudioHeader = () => {
           </label>
           <ul tabIndex={0} className="mt-3 z-[1] p-2 shadow menu dropdown-content bg-base-100 rounded-box w-max">
             <li>
-              <a>Profile</a>
-            </li>
-            <li>
-              <Link href="/studio/projects">Studio</Link>
-            </li>
-            <li>
-              <a>Settings</a>
-            </li>
-            <li>
-              <a>Logout</a>
+              <Link href="/">(Tmp) Back to marketplace</Link>
             </li>
           </ul>
         </div>

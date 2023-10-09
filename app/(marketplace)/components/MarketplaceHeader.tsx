@@ -7,7 +7,7 @@ const MarketplaceHeader = () => {
   return (
     <header className="navbar relative flex justify-between bg-uv-400  px-4">
       {/* Logo */}
-      <Link className="w-24 h-full" href={''}>
+      <Link className="w-24 h-full" href={'/'}>
         <img src="/uvision/logo-text.png" alt="uvision logo" />
       </Link>
 

@@ -30,7 +30,23 @@ export const projects: Project[] = [
     ],
     movie: {
       title: 'I WANT YOU FOR U.S.ARMY -NEAREST RECRUITING STATION-',
-      story: 'This is a sample movie story.',
+      story: `
+      LOGLINE:
+      "In a world teetering on the brink of chaos, a disparate group of individuals from all walks of life is brought together by an unexpected twist of fate when they discover a long-forgotten World War II-era recruitment poster. Inspired by its timeless message, they embark on a heartfelt journey to reignite the spirit of unity and patriotism, proving that heroes can emerge from the unlikeliest of places."
+
+      STORY:
+      In a time when division and discord seemed to be the order of the day, fate intervened in the most unexpected way. Tucked away in the attic of an old, dilapidated building, a group of urban explorers stumbled upon a dusty relic from the past – a World War II-era recruitment poster featuring Uncle Sam pointing directly at the viewer, beneath the bold caption: "I WANT YOU FOR U.S. ARMY - NEAREST RECRUITING STATION."
+      This discovery was not just an accident; it was a catalyst for change. The poster's message of unity and duty resonated deeply with this diverse group of explorers, who hailed from different backgrounds, cultures, and beliefs. They saw it as a beacon of hope, a reminder of a time when the nation had come together to face a common enemy.
+      Inspired by the poster's powerful call to action, they made it their mission to revive the spirit of unity and patriotism that it represented. United by a shared purpose, they embarked on a journey to connect with people across the country, sharing stories of everyday heroes who had made a difference in their communities. They documented these tales of courage, selflessness, and resilience, turning them into a documentary that showcased the strength of the American spirit.
+      Along the way, they encountered challenges, skepticism, and even moments of doubt, but their unwavering belief in the poster's message and the power of unity kept them going. As they continued their journey, they also discovered that the poster's original model, a World War II veteran now in his nineties, was still alive. His experiences and wisdom added a poignant layer to their story, reinforcing the idea that heroism knows no age.
+      Their efforts culminated in a nationwide event where they displayed the restored poster, alongside their documentary, in a public exhibition that celebrated the unsung heroes of today. The event brought together people from all walks of life, reminding everyone that despite their differences, they could come together as one in the face of adversity, just like their predecessors from World War II.
+
+      VISION:
+      Our vision is to breathe life back into a forgotten piece of American history and, in doing so, inspire a new generation of unity and patriotism. Through our crowdfunding campaign, we aim to fund the production and distribution of a documentary that tells the compelling story of our journey to resurrect the spirit of the iconic "I WANT YOU FOR U.S. ARMY" recruitment poster.
+      We envision a film that not only captivates audiences with its inspiring narrative but also reminds them of the values that have always defined our nation: unity, selflessness, and resilience. By sharing the stories of ordinary people doing extraordinary things, we hope to reignite the sense of duty and purpose that the poster symbolized during World War II.
+      Through our campaign, we will engage backers in our mission, offering them exclusive access to behind-the-scenes footage, interviews, and interactive experiences that allow them to connect with the project on a personal level. We will also organize events and exhibitions across the country, bringing the restored poster to communities far and wide, sparking discussions, and fostering a sense of pride in our shared heritage.
+      Join us in this endeavor to revive a powerful piece of American history and, more importantly, to remind our nation that unity and heroism are values that transcend time and circumstance. Together, we can prove that the message of "I WANT YOU FOR U.S. ARMY" is as relevant today as it was during World War II, and that the true strength of America lies in its people, working together for a brighter future.
+      `,
       category: 'film',
       genre: 'comedy',
       posterVertical: 'https://example.com/poster_vertical.jpg',
@@ -134,7 +150,23 @@ export const projects: Project[] = [
     ],
     movie: {
       title: 'MONTREAL Winter Sports',
-      story: 'This is a sample movie story.',
+      story: `
+      LOGLINE:
+      "In a world teetering on the brink of chaos, a disparate group of individuals from all walks of life is brought together by an unexpected twist of fate when they discover a long-forgotten World War II-era recruitment poster. Inspired by its timeless message, they embark on a heartfelt journey to reignite the spirit of unity and patriotism, proving that heroes can emerge from the unlikeliest of places."
+
+      STORY:
+      In a time when division and discord seemed to be the order of the day, fate intervened in the most unexpected way. Tucked away in the attic of an old, dilapidated building, a group of urban explorers stumbled upon a dusty relic from the past – a World War II-era recruitment poster featuring Uncle Sam pointing directly at the viewer, beneath the bold caption: "I WANT YOU FOR U.S. ARMY - NEAREST RECRUITING STATION."
+      This discovery was not just an accident; it was a catalyst for change. The poster's message of unity and duty resonated deeply with this diverse group of explorers, who hailed from different backgrounds, cultures, and beliefs. They saw it as a beacon of hope, a reminder of a time when the nation had come together to face a common enemy.
+      Inspired by the poster's powerful call to action, they made it their mission to revive the spirit of unity and patriotism that it represented. United by a shared purpose, they embarked on a journey to connect with people across the country, sharing stories of everyday heroes who had made a difference in their communities. They documented these tales of courage, selflessness, and resilience, turning them into a documentary that showcased the strength of the American spirit.
+      Along the way, they encountered challenges, skepticism, and even moments of doubt, but their unwavering belief in the poster's message and the power of unity kept them going. As they continued their journey, they also discovered that the poster's original model, a World War II veteran now in his nineties, was still alive. His experiences and wisdom added a poignant layer to their story, reinforcing the idea that heroism knows no age.
+      Their efforts culminated in a nationwide event where they displayed the restored poster, alongside their documentary, in a public exhibition that celebrated the unsung heroes of today. The event brought together people from all walks of life, reminding everyone that despite their differences, they could come together as one in the face of adversity, just like their predecessors from World War II.
+
+      VISION:
+      Our vision is to breathe life back into a forgotten piece of American history and, in doing so, inspire a new generation of unity and patriotism. Through our crowdfunding campaign, we aim to fund the production and distribution of a documentary that tells the compelling story of our journey to resurrect the spirit of the iconic "I WANT YOU FOR U.S. ARMY" recruitment poster.
+      We envision a film that not only captivates audiences with its inspiring narrative but also reminds them of the values that have always defined our nation: unity, selflessness, and resilience. By sharing the stories of ordinary people doing extraordinary things, we hope to reignite the sense of duty and purpose that the poster symbolized during World War II.
+      Through our campaign, we will engage backers in our mission, offering them exclusive access to behind-the-scenes footage, interviews, and interactive experiences that allow them to connect with the project on a personal level. We will also organize events and exhibitions across the country, bringing the restored poster to communities far and wide, sparking discussions, and fostering a sense of pride in our shared heritage.
+      Join us in this endeavor to revive a powerful piece of American history and, more importantly, to remind our nation that unity and heroism are values that transcend time and circumstance. Together, we can prove that the message of "I WANT YOU FOR U.S. ARMY" is as relevant today as it was during World War II, and that the true strength of America lies in its people, working together for a brighter future.
+      `,
       category: 'film',
       genre: 'comedy',
       posterVertical: 'https://example.com/poster_vertical.jpg',
@@ -238,7 +270,23 @@ export const projects: Project[] = [
     ],
     movie: {
       title: 'Orphan doll',
-      story: 'This is a sample movie story.',
+      story: `
+      LOGLINE:
+      "In a world teetering on the brink of chaos, a disparate group of individuals from all walks of life is brought together by an unexpected twist of fate when they discover a long-forgotten World War II-era recruitment poster. Inspired by its timeless message, they embark on a heartfelt journey to reignite the spirit of unity and patriotism, proving that heroes can emerge from the unlikeliest of places."
+
+      STORY:
+      In a time when division and discord seemed to be the order of the day, fate intervened in the most unexpected way. Tucked away in the attic of an old, dilapidated building, a group of urban explorers stumbled upon a dusty relic from the past – a World War II-era recruitment poster featuring Uncle Sam pointing directly at the viewer, beneath the bold caption: "I WANT YOU FOR U.S. ARMY - NEAREST RECRUITING STATION."
+      This discovery was not just an accident; it was a catalyst for change. The poster's message of unity and duty resonated deeply with this diverse group of explorers, who hailed from different backgrounds, cultures, and beliefs. They saw it as a beacon of hope, a reminder of a time when the nation had come together to face a common enemy.
+      Inspired by the poster's powerful call to action, they made it their mission to revive the spirit of unity and patriotism that it represented. United by a shared purpose, they embarked on a journey to connect with people across the country, sharing stories of everyday heroes who had made a difference in their communities. They documented these tales of courage, selflessness, and resilience, turning them into a documentary that showcased the strength of the American spirit.
+      Along the way, they encountered challenges, skepticism, and even moments of doubt, but their unwavering belief in the poster's message and the power of unity kept them going. As they continued their journey, they also discovered that the poster's original model, a World War II veteran now in his nineties, was still alive. His experiences and wisdom added a poignant layer to their story, reinforcing the idea that heroism knows no age.
+      Their efforts culminated in a nationwide event where they displayed the restored poster, alongside their documentary, in a public exhibition that celebrated the unsung heroes of today. The event brought together people from all walks of life, reminding everyone that despite their differences, they could come together as one in the face of adversity, just like their predecessors from World War II.
+
+      VISION:
+      Our vision is to breathe life back into a forgotten piece of American history and, in doing so, inspire a new generation of unity and patriotism. Through our crowdfunding campaign, we aim to fund the production and distribution of a documentary that tells the compelling story of our journey to resurrect the spirit of the iconic "I WANT YOU FOR U.S. ARMY" recruitment poster.
+      We envision a film that not only captivates audiences with its inspiring narrative but also reminds them of the values that have always defined our nation: unity, selflessness, and resilience. By sharing the stories of ordinary people doing extraordinary things, we hope to reignite the sense of duty and purpose that the poster symbolized during World War II.
+      Through our campaign, we will engage backers in our mission, offering them exclusive access to behind-the-scenes footage, interviews, and interactive experiences that allow them to connect with the project on a personal level. We will also organize events and exhibitions across the country, bringing the restored poster to communities far and wide, sparking discussions, and fostering a sense of pride in our shared heritage.
+      Join us in this endeavor to revive a powerful piece of American history and, more importantly, to remind our nation that unity and heroism are values that transcend time and circumstance. Together, we can prove that the message of "I WANT YOU FOR U.S. ARMY" is as relevant today as it was during World War II, and that the true strength of America lies in its people, working together for a brighter future.
+      `,
       category: 'film',
       genre: 'comedy',
       posterVertical: 'https://example.com/poster_vertical.jpg',
@@ -342,7 +390,23 @@ export const projects: Project[] = [
     ],
     movie: {
       title: "DON'T KILL OUR WILD LIFE",
-      story: 'This is a sample movie story.',
+      story: `
+      LOGLINE:
+      "In a world teetering on the brink of chaos, a disparate group of individuals from all walks of life is brought together by an unexpected twist of fate when they discover a long-forgotten World War II-era recruitment poster. Inspired by its timeless message, they embark on a heartfelt journey to reignite the spirit of unity and patriotism, proving that heroes can emerge from the unlikeliest of places."
+
+      STORY:
+      In a time when division and discord seemed to be the order of the day, fate intervened in the most unexpected way. Tucked away in the attic of an old, dilapidated building, a group of urban explorers stumbled upon a dusty relic from the past – a World War II-era recruitment poster featuring Uncle Sam pointing directly at the viewer, beneath the bold caption: "I WANT YOU FOR U.S. ARMY - NEAREST RECRUITING STATION."
+      This discovery was not just an accident; it was a catalyst for change. The poster's message of unity and duty resonated deeply with this diverse group of explorers, who hailed from different backgrounds, cultures, and beliefs. They saw it as a beacon of hope, a reminder of a time when the nation had come together to face a common enemy.
+      Inspired by the poster's powerful call to action, they made it their mission to revive the spirit of unity and patriotism that it represented. United by a shared purpose, they embarked on a journey to connect with people across the country, sharing stories of everyday heroes who had made a difference in their communities. They documented these tales of courage, selflessness, and resilience, turning them into a documentary that showcased the strength of the American spirit.
+      Along the way, they encountered challenges, skepticism, and even moments of doubt, but their unwavering belief in the poster's message and the power of unity kept them going. As they continued their journey, they also discovered that the poster's original model, a World War II veteran now in his nineties, was still alive. His experiences and wisdom added a poignant layer to their story, reinforcing the idea that heroism knows no age.
+      Their efforts culminated in a nationwide event where they displayed the restored poster, alongside their documentary, in a public exhibition that celebrated the unsung heroes of today. The event brought together people from all walks of life, reminding everyone that despite their differences, they could come together as one in the face of adversity, just like their predecessors from World War II.
+
+      VISION:
+      Our vision is to breathe life back into a forgotten piece of American history and, in doing so, inspire a new generation of unity and patriotism. Through our crowdfunding campaign, we aim to fund the production and distribution of a documentary that tells the compelling story of our journey to resurrect the spirit of the iconic "I WANT YOU FOR U.S. ARMY" recruitment poster.
+      We envision a film that not only captivates audiences with its inspiring narrative but also reminds them of the values that have always defined our nation: unity, selflessness, and resilience. By sharing the stories of ordinary people doing extraordinary things, we hope to reignite the sense of duty and purpose that the poster symbolized during World War II.
+      Through our campaign, we will engage backers in our mission, offering them exclusive access to behind-the-scenes footage, interviews, and interactive experiences that allow them to connect with the project on a personal level. We will also organize events and exhibitions across the country, bringing the restored poster to communities far and wide, sparking discussions, and fostering a sense of pride in our shared heritage.
+      Join us in this endeavor to revive a powerful piece of American history and, more importantly, to remind our nation that unity and heroism are values that transcend time and circumstance. Together, we can prove that the message of "I WANT YOU FOR U.S. ARMY" is as relevant today as it was during World War II, and that the true strength of America lies in its people, working together for a brighter future.
+      `,
       category: 'film',
       genre: 'comedy',
       posterVertical: 'https://example.com/poster_vertical.jpg',
@@ -446,7 +510,23 @@ export const projects: Project[] = [
     ],
     movie: {
       title: 'He returned',
-      story: 'This is a sample movie story.',
+      story: `
+      LOGLINE:
+      "In a world teetering on the brink of chaos, a disparate group of individuals from all walks of life is brought together by an unexpected twist of fate when they discover a long-forgotten World War II-era recruitment poster. Inspired by its timeless message, they embark on a heartfelt journey to reignite the spirit of unity and patriotism, proving that heroes can emerge from the unlikeliest of places."
+
+      STORY:
+      In a time when division and discord seemed to be the order of the day, fate intervened in the most unexpected way. Tucked away in the attic of an old, dilapidated building, a group of urban explorers stumbled upon a dusty relic from the past – a World War II-era recruitment poster featuring Uncle Sam pointing directly at the viewer, beneath the bold caption: "I WANT YOU FOR U.S. ARMY - NEAREST RECRUITING STATION."
+      This discovery was not just an accident; it was a catalyst for change. The poster's message of unity and duty resonated deeply with this diverse group of explorers, who hailed from different backgrounds, cultures, and beliefs. They saw it as a beacon of hope, a reminder of a time when the nation had come together to face a common enemy.
+      Inspired by the poster's powerful call to action, they made it their mission to revive the spirit of unity and patriotism that it represented. United by a shared purpose, they embarked on a journey to connect with people across the country, sharing stories of everyday heroes who had made a difference in their communities. They documented these tales of courage, selflessness, and resilience, turning them into a documentary that showcased the strength of the American spirit.
+      Along the way, they encountered challenges, skepticism, and even moments of doubt, but their unwavering belief in the poster's message and the power of unity kept them going. As they continued their journey, they also discovered that the poster's original model, a World War II veteran now in his nineties, was still alive. His experiences and wisdom added a poignant layer to their story, reinforcing the idea that heroism knows no age.
+      Their efforts culminated in a nationwide event where they displayed the restored poster, alongside their documentary, in a public exhibition that celebrated the unsung heroes of today. The event brought together people from all walks of life, reminding everyone that despite their differences, they could come together as one in the face of adversity, just like their predecessors from World War II.
+
+      VISION:
+      Our vision is to breathe life back into a forgotten piece of American history and, in doing so, inspire a new generation of unity and patriotism. Through our crowdfunding campaign, we aim to fund the production and distribution of a documentary that tells the compelling story of our journey to resurrect the spirit of the iconic "I WANT YOU FOR U.S. ARMY" recruitment poster.
+      We envision a film that not only captivates audiences with its inspiring narrative but also reminds them of the values that have always defined our nation: unity, selflessness, and resilience. By sharing the stories of ordinary people doing extraordinary things, we hope to reignite the sense of duty and purpose that the poster symbolized during World War II.
+      Through our campaign, we will engage backers in our mission, offering them exclusive access to behind-the-scenes footage, interviews, and interactive experiences that allow them to connect with the project on a personal level. We will also organize events and exhibitions across the country, bringing the restored poster to communities far and wide, sparking discussions, and fostering a sense of pride in our shared heritage.
+      Join us in this endeavor to revive a powerful piece of American history and, more importantly, to remind our nation that unity and heroism are values that transcend time and circumstance. Together, we can prove that the message of "I WANT YOU FOR U.S. ARMY" is as relevant today as it was during World War II, and that the true strength of America lies in its people, working together for a brighter future.
+      `,
       category: 'film',
       genre: 'comedy',
       posterVertical: 'https://example.com/poster_vertical.jpg',
@@ -550,7 +630,23 @@ export const projects: Project[] = [
     ],
     movie: {
       title: 'LOVE TRUTH AGAIN',
-      story: 'This is a sample movie story.',
+      story: `
+      LOGLINE:
+      "In a world teetering on the brink of chaos, a disparate group of individuals from all walks of life is brought together by an unexpected twist of fate when they discover a long-forgotten World War II-era recruitment poster. Inspired by its timeless message, they embark on a heartfelt journey to reignite the spirit of unity and patriotism, proving that heroes can emerge from the unlikeliest of places."
+
+      STORY:
+      In a time when division and discord seemed to be the order of the day, fate intervened in the most unexpected way. Tucked away in the attic of an old, dilapidated building, a group of urban explorers stumbled upon a dusty relic from the past – a World War II-era recruitment poster featuring Uncle Sam pointing directly at the viewer, beneath the bold caption: "I WANT YOU FOR U.S. ARMY - NEAREST RECRUITING STATION."
+      This discovery was not just an accident; it was a catalyst for change. The poster's message of unity and duty resonated deeply with this diverse group of explorers, who hailed from different backgrounds, cultures, and beliefs. They saw it as a beacon of hope, a reminder of a time when the nation had come together to face a common enemy.
+      Inspired by the poster's powerful call to action, they made it their mission to revive the spirit of unity and patriotism that it represented. United by a shared purpose, they embarked on a journey to connect with people across the country, sharing stories of everyday heroes who had made a difference in their communities. They documented these tales of courage, selflessness, and resilience, turning them into a documentary that showcased the strength of the American spirit.
+      Along the way, they encountered challenges, skepticism, and even moments of doubt, but their unwavering belief in the poster's message and the power of unity kept them going. As they continued their journey, they also discovered that the poster's original model, a World War II veteran now in his nineties, was still alive. His experiences and wisdom added a poignant layer to their story, reinforcing the idea that heroism knows no age.
+      Their efforts culminated in a nationwide event where they displayed the restored poster, alongside their documentary, in a public exhibition that celebrated the unsung heroes of today. The event brought together people from all walks of life, reminding everyone that despite their differences, they could come together as one in the face of adversity, just like their predecessors from World War II.
+
+      VISION:
+      Our vision is to breathe life back into a forgotten piece of American history and, in doing so, inspire a new generation of unity and patriotism. Through our crowdfunding campaign, we aim to fund the production and distribution of a documentary that tells the compelling story of our journey to resurrect the spirit of the iconic "I WANT YOU FOR U.S. ARMY" recruitment poster.
+      We envision a film that not only captivates audiences with its inspiring narrative but also reminds them of the values that have always defined our nation: unity, selflessness, and resilience. By sharing the stories of ordinary people doing extraordinary things, we hope to reignite the sense of duty and purpose that the poster symbolized during World War II.
+      Through our campaign, we will engage backers in our mission, offering them exclusive access to behind-the-scenes footage, interviews, and interactive experiences that allow them to connect with the project on a personal level. We will also organize events and exhibitions across the country, bringing the restored poster to communities far and wide, sparking discussions, and fostering a sense of pride in our shared heritage.
+      Join us in this endeavor to revive a powerful piece of American history and, more importantly, to remind our nation that unity and heroism are values that transcend time and circumstance. Together, we can prove that the message of "I WANT YOU FOR U.S. ARMY" is as relevant today as it was during World War II, and that the true strength of America lies in its people, working together for a brighter future.
+      `,
       category: 'film',
       genre: 'comedy',
       posterVertical: 'https://example.com/poster_vertical.jpg',

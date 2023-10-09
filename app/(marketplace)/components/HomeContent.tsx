@@ -80,9 +80,10 @@ const HomeContent: React.FC<Props> = ({ projects }) => {
                 </figure>
                 <div className="card-body p-4">
                   {/* Title & Description */}
-                  <div className="min-h-[4rem]">
+                  <div className="min-h-[4rem] space-y-2">
                     <h2 className="card-title text-sm truncate">{project.name}</h2>
                     <p className="text-xs truncate">{project.description}</p>
+                    <p className="badge text-xs">{project.movie?.category}</p>
                   </div>
                   {/* Raised */}
                   <div>
