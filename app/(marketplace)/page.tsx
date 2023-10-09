@@ -1,10 +1,6 @@
-import { Header } from '../(studio)/components/Header';
+import { projects } from '@/mock';
+import HomeContent from './components/HomeContent';
 
 export default function Home() {
-  return (
-    <div className="h-screen">
-      <Header />
-      Marketplace page
-    </div>
-  );
+  return <HomeContent projects={projects} />;
 }
